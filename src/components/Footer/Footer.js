@@ -1,9 +1,10 @@
 const Footer = () => {
   return (
     <footer>
+      <h2 className="sr-only">Site footer</h2>
       <div className="footer-content">
         <div className="footer-section">
-          <h4>Quick Links</h4>
+          <h3>Quick Links</h3>
           <ul className="footer-links">
             <li>
               <a href="#hero">
@@ -28,7 +29,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="footer-section">
-          <h4>More</h4>
+          <h3>More</h3>
           <ul className="footer-links">
             <li>
               <a href="#projects">
@@ -43,7 +44,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="footer-section">
-          <h4>Connect</h4>
+          <h3>Connect</h3>
           <div className="social-links">
             <a
               href="https://www.linkedin.com/in/jeremy-marube-b0a648357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"

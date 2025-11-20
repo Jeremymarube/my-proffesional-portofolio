@@ -8,6 +8,8 @@ const Hero = () => {
           alt="Jeremy Marube"
           width={400}
           height={600}
+          quality={70}
+          sizes="(max-width: 1024px) 80vw, 400px"
           priority
         />
       </div>

@@ -38,7 +38,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <h2>Contact Me</h2>
-      <p>Feel free to contact me if you need anything.</p>
+      <p>Am open to collaborations,projects, or simply connecting with like-minded professionals. Let's create something impactful together.</p>
       <form onSubmit={handleSubmit} noValidate>
         <label htmlFor="name">Name:</label>
         <input

@@ -34,7 +34,12 @@ const CertificateModal = ({ isOpen, onClose, certificate }) => {
   return (
     <div className="cert-modal-overlay" onClick={onClose}>
       <div className="cert-modal-content" onClick={(e) => e.stopPropagation()}>
-        <button className="cert-modal-close" onClick={onClose} aria-label="Close modal">
+        <button
+          type="button"
+          className="cert-modal-close"
+          onClick={onClose}
+          aria-label="Close modal"
+        >
           <i className="fas fa-times" />
         </button>
         <div className="cert-modal-image-wrapper">
@@ -44,7 +49,9 @@ const CertificateModal = ({ isOpen, onClose, certificate }) => {
             width={800}
             height={600}
             className="cert-modal-image"
-            priority
+            quality={70}
+            loading="lazy"
+            sizes="(max-width: 768px) 90vw, (max-width: 1200px) 70vw, 800px"
           />
         </div>
         <div className="cert-modal-info">
