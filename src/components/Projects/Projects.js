@@ -3,6 +3,7 @@ import Image from 'next/image';
 const projects = [
   {
     title: 'School-management-system',
+    website: 'https://final-project-iota-bay.vercel.app/',
     className: 'project-1',
     image: '/images/school.png',
     technologies: ['React', 'Javascript', 'HTML', 'CSS' ],
