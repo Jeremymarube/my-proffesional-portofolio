@@ -17,9 +17,10 @@ const Hero = () => {
         <h1>Welcome to my professional portfolio</h1>
         <p>Hello, am Jeremy Marube Rioba,a full-stack developer, with experience in HTML, CSS, REACT, JAVASCRIPT,PYTHON and FLASK.</p>
         <div className="hero-buttons">
-          <a href="/resume.pdf" className="btn" download>
-            Download Resume
+          <a href="/resume.pdf" className="btn" target="_blank" rel="noopener noreferrer">
+             View Resume
           </a>
+
           <a href="#about" className="btn">
             Learn more
           </a>
