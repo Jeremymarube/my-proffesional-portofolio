@@ -168,6 +168,12 @@ nav a:hover {
   margin-bottom: clamp(24px, 3vw, 40px);
 }
 
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
 #hero .hero-image {
   flex: 0 0 auto;
   width: 100%;
