@@ -27,6 +27,15 @@ const projects = [
     technologies: ['Next.js', 'flask', 'python', 'SQLAlchemy', 'Tailwind CSS'],
   },
   {
+    title: 'SoleStreet',
+    description:
+      'Fast mobile sneaker store',
+    website: 'https://soles-street-vaoe.vercel.app/',
+    className: 'project-4',
+    image: '/images/solestreet.png',
+    technologies: ['Next.js', 'Postgresql', 'tailwind', 'Flask', 'render', 'Vercel'],
+  },
+  {
     title: 'ReGen',
     description:
       'AI-powered waste and sustainability assistant that helps communities classify waste, track carbon footprints, and form greener habits.',
