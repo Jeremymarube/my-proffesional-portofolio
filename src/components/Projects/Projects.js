@@ -15,7 +15,7 @@ const projects = [
     website: 'https://jeremymarube.github.io/movie-browser/',
     className: 'project-2',
     image: '/images/movie.png',
-    technologies: [ 'Javascript', 'html', 'json API', 'CSS'],
+    technologies: [ 'Javascript', 'html', 'json API', 'TMDB', 'CSS'],
   },
   {
     title: 'Petrol-Station-Tracker',
