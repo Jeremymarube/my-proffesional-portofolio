@@ -128,10 +128,10 @@ const Education = () => {
         <div className="education-content">
           <h3>Software Engineering</h3>
           <h4>Moringa School</h4>
-          <p className="education-period">2025 - Present</p>
+          <p className="education-period">2025 - November</p>
           <p className="education-description">
-             Just graduated from Moringaschool where i was pursuing a comprehensive Software Engineering program focusing on full-stack development, 
-                    including HTML, CSS, JavaScript, React, Python, and Flask. Learning modern development practices, 
+              Graduated from Moringaschool where i was pursuing a comprehensive Software Engineering program focusing on full-stack development, 
+                    including HTML, CSS, JavaScript, React, Next.js, Python, and Flask. Learning modern development practices, 
                     version control, and collaborative software development.
           </p>
           <div className="education-skills">
