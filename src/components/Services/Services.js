@@ -1,7 +1,7 @@
 const services = [
   {
     title: 'Frontend Development',
-    description: 'Responsive, accessible interfaces built with React and modern CSS.',
+    description: 'Responsive, accessible interfaces built with Next.js and modern CSS.',
     icon: 'fas fa-paint-brush',
   },
   {
