@@ -3,11 +3,13 @@ const About = () => {
     <section id="about">
       <h2>About me</h2>
       <p>
-        I started my journey in Electrical Engineering early last year, but this year I made a
-        decision to fully pursue Software Development at Moringa School where I learned a lot and
-        discovered my passion. Since then I have been dedicated to mastering full-stack development
-        and building real-world projects that solve real world problems and deliver meaningful
-        digital experiences.
+        I pursued Software Development at Moringa School, where I successfully graduated in November
+         2025 and built a strong foundation in modern web technologies and full-stack development.
+          Since graduating, I have continued growing as a developer by building full-stack applications,
+           exploring new technologies, and working on projects that solve real-world problems. This year,
+            I have also expanded my experience into technology education, teaching coding and robotics to
+             students while sharpening my technical, problem-solving, and communication skills. 
+             I am passionate about continuous learning, creating impactful digital solutions, and turning ideas into meaningful products.
       </p>
       <p>
         What drives me is transforming code into functional, well-designed websites and apps that
