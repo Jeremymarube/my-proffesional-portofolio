@@ -2,7 +2,7 @@ const skills = [
   { icon: 'fab fa-html5', label: 'HTML' },
   { icon: 'fab fa-css3-alt', label: 'CSS' },
   { icon: 'fab fa-js-square', label: 'JavaScript' },
-  { icon: 'fab fa-react', label: 'React' },
+  
   { icon: 'fab fa-python', label: 'Python' },
   { icon: 'fas fa-flask', label: 'Flask', extraClass: 'flask-skill' },
   { icon: 'fas fa-database', label: 'SQL' },
