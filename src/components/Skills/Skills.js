@@ -6,6 +6,7 @@ const skills = [
   { icon: 'fab fa-python', label: 'Python' },
   { icon: 'fas fa-flask', label: 'Flask', extraClass: 'flask-skill' },
   { icon: 'fas fa-database', label: 'SQL' },
+  { icon: 'fas fa-server', label: 'PostgreSQL' },
   { icon: 'fab fa-git-alt', label: 'Git' },
   { icon: 'fas fa-layer-group', label: 'Next.js' }
 
