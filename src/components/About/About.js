@@ -3,20 +3,18 @@ const About = () => {
     <section id="about">
       <h2>About me</h2>
       <p>
-        I pursued Software Development at Moringa School, where I successfully graduated in November
-         2025 and built a strong foundation in modern web technologies and full-stack development.
-          Since graduating, I have continued growing as a developer by building full-stack applications,
-           exploring new technologies, and working on projects that solve real-world problems. This year,
-            I have also expanded my experience into technology education, teaching coding and robotics to
-             students while sharpening my technical, problem-solving, and communication skills. 
-             I am passionate about continuous learning, creating impactful digital solutions, and turning ideas into meaningful products.
+        I’m a full-stack developer and a graduate of Moringa School’s Software Development program (November 2025).
+         Since then, I’ve been building full-stack applications and taking on projects that solve real problems,
+          while also teaching coding and robotics to students, which has sharpened both my technical and communication skills.
+             </p>
+      <p>
+        I enjoy turning code into well-designed websites and apps that are easy and satisfying to use.
+         I treat debugging as part of the craft: every bug I track down teaches me something new. 
+         I’m looking to keep refining my skills and build efficient, user-centered applications.
       </p>
       <p>
-        What drives me is transforming code into functional, well-designed websites and apps that
-        solve problems and enhance user experience. I view debugging as a valuable part of the
-        learning process—each challenge deepens my understanding and sharpens my skills. My goal is
-        to continue refining my craft and developing high-quality, efficient, and user-centered web
-        applications.
+        I’m currently open to junior developer roles and freelance projects. 
+        If you have a project or opportunity in mind, I’d love to hear from you.
       </p>
     </section>
   );
