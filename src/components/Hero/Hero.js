@@ -15,7 +15,9 @@ const Hero = () => {
       </div>
       <div className="hero-content">
         <h1>Welcome to my professional portfolio</h1>
-        <p>Hello, am Jeremy Marube Rioba,a full-stack developer, with experience in HTML, CSS, NEXT.JS, JAVASCRIPT,PYTHON and FLASK.</p>
+        <p>Hi, I’m Jeremy Marube Rioba, a full-stack developer focused on building reliable,
+           user-friendly web applications. I combine clean front-end design with solid back-end logic
+            to deliver products that are both beautiful and dependable. Explore my projects below to see how I work.</p>
         <div className="hero-buttons">
           <a href="/resume.pdf" className="btn" target="_blank" rel="noopener noreferrer">
              View Resume
